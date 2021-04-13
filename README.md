@@ -1,1 +1,5 @@
-# Unionwells-France-Native-App
+# Unionwells France Official Native Android App
+
+Initial Release
+
+Basée dans le sud de la Chine, Huizhou Unionwell est spécialisée dans la création et la fabrication de variétés de micro-interrupteurs, modules et autres composants électroniques précis, qui ont été largement assemblés avec de nombreuses marques à la fois localement et dans le monde. Situé à la passerelle entre Shenzhen et Dongguang, l'atelier Unionwell couvre plus de 22 000 mètres carrés, notre équipe de R & D et nos techniciens ont connu une profonde expérience de succès honorable sur 20 ans. Avec une créativité successive, Unionwell est particulièrement forte dans la réalisation de séries de micro-interrupteurs à haute efficacité, de séries de commutateurs étanches, de séries de commutateurs rotatifs, de séries de commutateurs d'alimentation à bouton-poussoir et d'autres types de commutateurs, avec un total de 300 millions de pièces produites par an. Étant entièrement testés et conformes aux certifications de laboratoire UL, ENEC, EK, CQC, nos interrupteurs de qualité sont absolument la meilleure clé pour allumer ou éteindre la plupart des instruments électroniques, des appareils électroménagers, de l'électronique automobile et des outils électriques.
